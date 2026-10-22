@@ -25,7 +25,7 @@ An interactive quiz website built using HTML, CSS, and JavaScript. It allows use
 
 ## Live Demo
 
-[Play the Quiz](PASTE_YOUR_LIVE_VERCEL_URL_HERE)
+[Play the Quiz](https://quiz-rose-eight-33.vercel.app/)
 
 ## Project Structure
 
